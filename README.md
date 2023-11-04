@@ -4,6 +4,7 @@ Ideation Phase:
 2)Brainstorming
 
 Project design phase:
+
 1)solution architecture
 2)proposed solution
 
