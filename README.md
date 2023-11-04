@@ -6,3 +6,6 @@ Ideation Phase:
 Project design phase:
 1)solution architecture
 2)proposed solution
+
+Project planning phase:
+1) Technology stack
