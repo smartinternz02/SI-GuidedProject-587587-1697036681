@@ -12,5 +12,5 @@ Project planning phase:
 1) Technology stack
 2) project planning report
    
-Project development phase:
+final project documentation:
 1) project report (project manual)
