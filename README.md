@@ -14,3 +14,5 @@ Project planning phase:
    
 final project documentation:
 1) project report (project manual)
+Project source code:
+1) zip file 
